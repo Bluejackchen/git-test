@@ -24,6 +24,7 @@ public class USBTest {
                     System.out.println("---------------");
                     System.out.println("gitee-push");
                     System.out.println("gitee-push");
+                    System.out.println("gitee-push2");
 
 
                     usb.stop();
